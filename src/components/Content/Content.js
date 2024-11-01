@@ -15,7 +15,7 @@ import Contact from "../Contact/Contact";
 const Content = () => (
   <div className="content-container">
     <div className="content-inner">
-      <Logo className="cons" /> <br />
+      <Logo className="cons" /> 
       <div style={{ opacity: 0.5, fontWeight: "bolder" }}>
         <Routes>
           <Route path="/" element={<Navigate to="/summary" replace />} />

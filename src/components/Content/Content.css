@@ -16,10 +16,18 @@
     height: 100%;
     background: rgba(10, 43, 63, 0.7);
     border-radius: 20px;
+    position: relative;
+}
+
+.content-inner div {
+    color: rgb(255, 255, 255);
 }
 
 .cons {
-    height: 200px;
-    width: 200px;
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    height: 50px;
+    width: 50px;
     opacity: 0.5;
 }
