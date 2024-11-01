@@ -1,0 +1,22 @@
+.education-container {
+    text-align: left;
+    padding: 50px;
+    width: 100%;
+}
+
+.maj {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.coursework {
+    font-weight: bold;
+
+}
+
+.courses {
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    text-wrap: balance;
+}
