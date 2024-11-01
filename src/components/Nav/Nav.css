@@ -22,3 +22,12 @@
   border-radius: 50%;
   object-fit: cover;
 }
+
+.nav-plate {
+    padding: 20px;
+}
+
+.selected {
+    color: red;
+    /* text-shadow: 0px 0px 78px 0px rgba(45,255,196,0.9); */
+}

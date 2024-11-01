@@ -1,4 +1,15 @@
 .nav-item {
     letter-spacing:2px;
     padding: 10px;
+    cursor: pointer;
+    transition-timing-function: ease-in-out;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition-duration: 1.5s;
+    font-size: large;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    letter-spacing: 3px;
+    font-weight: bold;
 }
