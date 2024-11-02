@@ -4,6 +4,10 @@
     width: 100%;
 }
 
+.college {
+    font-weight: bolder;
+}
+
 .maj {
     font-weight: normal;
     font-style: italic;
